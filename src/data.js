@@ -15,7 +15,7 @@ export const products = [
   //   },
   // },
   {
-    id: 2,
+    id: 1,
     title: "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
     price: 109.95,
     description:
